@@ -1,4 +1,4 @@
-# Simple Crafting System (Unity / C#)
+# Stat Buff System (Unity / C#)
 
 ![Stat system image](/doc/stat_system_1.PNG)
 
