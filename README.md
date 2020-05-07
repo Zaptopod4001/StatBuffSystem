@@ -1,6 +1,6 @@
 # Simple Crafting System (Unity / C#)
 
-![Stat system image](/doc/stat_system_1.png)
+![Stat system image](/doc/stat_system_1.PNG)
 
 ## What is it?
 
@@ -14,7 +14,7 @@ Note: Open Project and the scene, and run the program. Add and remove stats and 
 # Features
 For example, adding an armor will reduce speed, where as adding a magic ring will boost character magic skills. Stat boosts can be positive or negative. Stat boosts can be either flat or integer buffs, or percentage buffs. Percentage buffs are calculated after all flat buffs have been added.
 
-![Stat system image](/doc/stat_system_2.png)
+![Stat system image](/doc/stat_system_2.PNG)
 
  
 # Classes
@@ -38,14 +38,14 @@ Class that defines values for a stat buff.
 
 A Custom Property Drawer for Stat class. This will make Stat class look easier to eyes. As it is a Property Drawer, automatic Layout can't be used.
 
-![Stat system image](/doc/stat_system_4.png)
+![Stat system image](/doc/stat_system_4.PNG)
 
 
 ## StatModDrawer.cs
 
 A Custom Property Drawer for StatMod class.
 
-![Stat system image](/doc/stat_system_3.png)
+![Stat system image](/doc/stat_system_3.PNG)
 
 
 # About
