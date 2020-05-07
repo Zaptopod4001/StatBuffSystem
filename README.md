@@ -23,14 +23,13 @@ For example, adding an armor will reduce character speed, where as adding a magi
 Test class which shows how stat buffs work.
 
 ## StatManager.cs
-Class which holds added stats from items. Add and remove stats and get the final modified stat values.
+Class which holds player character stats and added stat buffs from items. Use this class to add and remove stat buffs and get the final modified stat values.
 
 ## Stat.cs
-Class that defines stat that can be buffed.
+Class that defines a stat that can be buffed.
 
 ## StatMod
 Class that defines a stat buff/modifier.
-
 
 # Editor Classes
 
@@ -49,7 +48,7 @@ A Custom Property Drawer for StatMod class.
 
 
 # About
-I created this stat system for myself, as a learning experience.
+I created this stat buff system for myself, as a learning experience.
 
 # Copyright 
 Created by Sami S. use of any kind without a written permission from the author is not allowed. But feel free to take a look.
